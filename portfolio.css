@@ -1,0 +1,142 @@
+*{
+ margin: 10px;
+ padding: 10px;
+}
+#wrapper{
+ width: auto;
+ background-image: linear-gradient(to bottom right, #221215, #6f5965, #221215);
+}
+.header {
+ background-color: #fafafa;
+ display: block;
+ color: #black;
+ margin: 0px;
+ min-height: 60px;
+ vertical-align: center;
+}
+#name {
+ float: left;
+ padding: 10px;
+ vertical-align: center;
+ font: 32px Comic Sans, sans-serif;
+ font-weight: bold;
+}
+#shadows {
+ float:right;
+ vertical-align: center;
+ font: 16px Comic Sans, sans-serif;
+}
+
+.boxes {
+ background-color: 9FA2AE;
+ color: black;
+ display: inline-block;
+}
+
+.tech {
+ background-image: linear-gradient(to top right, white, #F0D5ED);
+ width: 320px;
+ height: 70px;
+ margin: 0px;
+ margin-left: 10px;
+ padding: 0px;
+}
+
+#first_row {
+background-color: 9FA2AE;
+display: block;
+ min-height: 200px;
+ min-width: 300px;
+ vertical-align: center;
+ text-align: center;
+ margin: 10px;
+ padding: 0px;
+}
+#second_row {
+ background-color: 9FA2AE;
+ display: block;
+ min-height: 200px;
+ min-width: 350px;
+ vertical-align: top;
+ text-align: center;
+ margin-bottom: 0px;
+ padding-bottom: 0px;
+}	
+#url {
+ background-image: linear-gradient(to top right, white, #F0D5ED);
+ display: block;
+ vertical-align: bottom;
+ text-align: center;
+ margin: 0px;
+ padding: 0px;
+}
+#first_row h3, #second_row h3{
+ background-image: linear-gradient(#b3b1b6, #878592, #b3b1b6);
+ color: white;
+ margin-top: 0px;	
+ padding-top: 0px;
+ margin-bottom: 0px;
+ padding-bottom: 0px;
+ min-height: 30px;
+ min-width: 300px;
+ vertical-align: center;
+ display: inline-block;
+}
+
+#first_row_img{
+ margin: 0px;	
+ padding: 0px;
+ border-style: solid ;
+ border-width: 5px;
+ border-color: #878592;
+ display: inline-block;
+ margin-top: 10px;
+ margin-bottom: 0px;
+}
+
+#first_row_img img {
+margin: 0px;
+padding: 0px;
+}
+
+p {
+ background-image: linear-gradient(to top right, white, #F0D5ED);
+ padding-bottom: 0px;
+ margin-top: 0px;	
+ padding-top: 5px;
+ margin-bottom: 0px;
+
+ text-align: left;
+ display: inline-block;
+}
+
+
+#first_row_text {
+ height: 270px;
+ width: 500px; 
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-top: 0px;
+ display: inline-block;
+ vertical-align: top;
+}
+#second_row_la_mode, #second_row_family, #second_row_fiveEleven {
+width: 300px;
+min-height: 600px;	
+ display: inline-block;
+  margin-left: 10px;
+ margin-right: 10px;
+ vertical-align: top;
+}
+
+#about_text {
+	width: 500px;
+	text-align: left;
+	vertical-align: top;
+}
+
+#second_row img {
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0px;
+}
